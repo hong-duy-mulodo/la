@@ -9,6 +9,11 @@
 ## Pilicies
 https://code.tutsplus.com/tutorials/gates-and-policies-in-laravel--cms-29780
 https://laravel-news.com/authorization-gates
+## Loading Ajax
+- https://gist.github.com/tobysteward/6163902
+- https://laraget.com/blog/how-to-create-an-ajax-pagination-using-laravel
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
